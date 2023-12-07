@@ -1,0 +1,7 @@
+{
+  "app.js": "file",
+  "output.json": "file",
+  "package-lock.json": "file",
+  "package.json": "file",
+  "sync.js": "file"
+}
